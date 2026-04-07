@@ -40,7 +40,7 @@ postman/
 npm install
 ```
 
-2. Create a `.env` file using `.env.example`.
+2. Create a `.env` file in the project root.
 
 Example:
 
